@@ -5,3 +5,6 @@ html{
 h1 { 
   color: blue; 
 }
+.wid{
+  max-width: 800px;
+}
